@@ -24,3 +24,5 @@ This project analyzes order and return data for Urban Threads during Q4 2024.
 - Pivot table analysis
 - Dashboard visualization
 - Business recommendations
+## Dashboard Preview
+![Dashboard](dashboard.png)
